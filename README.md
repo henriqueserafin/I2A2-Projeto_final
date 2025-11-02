@@ -29,8 +29,6 @@ pip install -r requirements.txt
 
 ```bash
 uv run main.py
-source .venv/bin/activate
-uv pip install -r requirements.txt
 ```
 
 ---
