@@ -8,6 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
-main.py 
 requirements.txt
 .env
